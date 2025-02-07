@@ -1,0 +1,1 @@
+print("cecui est un tes pour le projet devops avec comme Scrum Master Jean Fabrice")
