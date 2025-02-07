@@ -1,0 +1,11 @@
+[
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "task2",
+        "description": "task2",
+        "peekOfCode": "def add(a, b):\n    return a + b\nif __name__ == \"__main__\":\n    a = add(5,5)\n    print(a)",
+        "detail": "task2",
+        "documentation": {}
+    }
+]
